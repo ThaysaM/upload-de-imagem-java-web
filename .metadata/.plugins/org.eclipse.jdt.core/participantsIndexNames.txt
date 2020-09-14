@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\bin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1481961279.index
+\projetoselecao\src\main\java
+C:\bin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1891375401.index
+\selecaoProjeto\src
+C:\bin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1621287196.index
+\projetoSelecao Servelet\src
+C:\bin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\56089857.index
+\selecaoProjeto\src
